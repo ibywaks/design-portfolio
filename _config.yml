@@ -3,7 +3,7 @@ title: "Iby Waks"
 subtitle: About me & portfolio
 email: ibywaks@gmail.com
 description: "Iby's site"
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+baseurl: "/design-portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: "Ibiyemi Adewakun"
 # street_address: 1234 Somewhere Road
