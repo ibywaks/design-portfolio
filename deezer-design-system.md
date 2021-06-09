@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deezer
+title: "Case Study: Deezer"
 image: assets/images/deezer.jpeg
 image-alt: Deezer Music App
 nav-menu: true
@@ -125,7 +125,7 @@ nav-menu: true
         </div>
 
         <p>View mobile prototype <a href="https://www.figma.com/proto/Tw7TAXQ8O9z2uT5gtZog7W/Presentation-Iby?node-id=1356%3A1145&scaling=scale-down&page-id=1221%3A5" target="_blank">here</a></p>
-        
+
         <p>Full Project available to view on <a href="https://www.figma.com/file/Tw7TAXQ8O9z2uT5gtZog7W/Presentation-Iby?node-id=1366%3A0" target="_blank">Figma</a></p>
     </div>
 </section>

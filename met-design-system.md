@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Metropolitan Museum of Art
+title: "Case Study: The Met"
 image: assets/images/fifthave_teaser.jpeg
 image-alt: The Metropolitan Museum of Art Fifth Avenue
 nav-menu: true
